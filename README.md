@@ -5,7 +5,7 @@
 ### Computer Science Student @ VIT Pune
 *Breaking codes, building systems, and exploring the digital frontier 🔐*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Learning+Coding+%F0%9F%92%BB;Digital+%26+Cyber+Forensics+Enthusiast+%F0%9F%94%8D;Cybersecurity+Expert+%F0%9F%9B%A1%EF%B8%8F;Learning+Rust+%F0%9F%A6%80;Hacking+the+Matrix...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Learning+Coding+%F0%9F%92%BB;Digital+%26+Cyber+Forensics+Enthusiast+%F0%9F%94%8D;Cybersecurity+Expert+%F0%9F%9B%A1%EF%B8%8F;Rust+%F0%9F%A6%80+%7C+Go+%F0%9F%90%B9+%7C+C%2B%2B+%E2%9A%A1+%7C+Python+%F0%9F%90%8D;Hacking+the+Matrix...)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 I'm a **cybersecurity enthusiast** and **digital forensics explorer** on a mission to understand the depths of secure systems. Currently leveling up my coding skills while diving deep into the world of **Rust** 🦀 and forensic analysis.
 
-My interests lie at the intersection of **security, cryptography, and low-level systems programming**. I believe in building secure-by-design solutions and understanding how things break before we build them.
+My interests lie at the intersection of **security, cryptography, and low-level systems programming**. I'm mastering multiple languages - **Rust 🦀** for memory safety, **Go 🐹** for concurrent systems, **C++ ⚡** for performance-critical code, and **Python 🐍** for rapid security tooling. I believe in building secure-by-design solutions and understanding how things break before we build them.
 
 When I'm not analyzing packets or writing secure code:
 - 🏊‍♂️ Swimming through security challenges
@@ -48,8 +48,9 @@ When I'm not analyzing packets or writing secure code:
 
 ### 💻 Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔧 Tools & Tech
@@ -152,7 +153,7 @@ Currently cooking up new security tools and forensic utilities
 
 ```rust
 struct DevJourney {
-    learning: Vec<&'static str>,
+    languages: Vec<&'static str>,
     focus_areas: Vec<&'static str>,
     motto: &'static str,
 }
@@ -160,18 +161,18 @@ struct DevJourney {
 impl DevJourney {
     fn new() -> Self {
         DevJourney {
-            learning: vec![
-                "Rust Programming 🦀",
+            languages: vec![
+                "Rust 🦀 - Memory Safety & Performance",
+                "Go 🐹 - Concurrent Systems & Microservices",
+                "C++ ⚡ - Low-Level Systems Programming",
+                "Python 🐍 - Security Tools & Automation"
+            ],
+            focus_areas: vec![
                 "Advanced Cryptography",
                 "Digital Forensics Techniques",
                 "Network Security & Pentesting",
-                "Systems Programming"
-            ],
-            focus_areas: vec![
-                "Secure Coding Practices",
-                "Threat Analysis",
-                "Incident Response",
-                "Exploit Development (Ethical)"
+                "Systems Programming",
+                "Secure Code Architecture"
             ],
             motto: "Security through understanding, not obscurity"
         }
@@ -225,13 +226,14 @@ print(f"Status: {me.current_mission} | Method: {me.debug_method}")
 ┌─────────────────────────────────────────────────────┐
 │  Skill                    │  Progress               │
 ├─────────────────────────────────────────────────────┤
-│  🔐 Cryptography          │  ████████░░  80%       │
-│  🦀 Rust                  │  ███░░░░░░░  30%       │
+│  🦀 Rust                  │  ████░░░░░░  40%       │
+│  🐹 Go                    │  █████░░░░░  50%       │
+│  ⚡ C++                   │  ████████░░  80%       │
 │  🐍 Python                │  █████████░  90%       │
+│  🔐 Cryptography          │  ████████░░  80%       │
 │  🔍 Digital Forensics     │  ███████░░░  70%       │
 │  🛡️ Cybersecurity         │  ████████░░  85%       │
 │  🌐 Network Security      │  ███████░░░  75%       │
-│  💻 Systems Programming   │  ████░░░░░░  40%       │
 └─────────────────────────────────────────────────────┘
 ```
 
