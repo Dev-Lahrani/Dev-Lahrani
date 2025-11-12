@@ -1,21 +1,39 @@
-# Hey! I'm Dev Lahrani 👋
+# 👋 Hey there, I'm Dev Lahrani
 
 <div align="center">
+  
+### Computer Science Student @ VIT Pune
+*Breaking codes, building systems, and exploring the digital frontier 🔐*
 
-**Computer Science Student @ VIT Pune**  
-*Building cool stuff with Python, C++, and caffeine ☕*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Learning+Coding+%F0%9F%92%BB;Digital+%26+Cyber+Forensics+Enthusiast+%F0%9F%94%8D;Cybersecurity+Expert+%F0%9F%9B%A1%EF%B8%8F;Learning+Rust+%F0%9F%A6%80;Hacking+the+Matrix...)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=400&lines=DSA+%26+Problem+Solving;N8N+Automation+Wizard;Full-Stack+Developer;Always+Learning...)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+  
+```ascii
+╔══════════════════════════════════════════════════════════╗
+║  [SYSTEM ONLINE] Security Protocols Active 🔒           ║
+║  [STATUS] Learning Mode Engaged 📚                      ║
+║  [MISSION] Securing the Digital World 🌐                ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
+## 🎯 About Me
 
-Currently diving deep into **Data Structures & Algorithms** while building automation workflows with **N8N**. I love creating efficient solutions and turning complex problems into simple, elegant code.
+I'm a **cybersecurity enthusiast** and **digital forensics explorer** on a mission to understand the depths of secure systems. Currently leveling up my coding skills while diving deep into the world of **Rust** 🦀 and forensic analysis.
 
-When I'm not debugging, you'll find me swimming 🏊‍♂️ or lost in web novels 📚
+My interests lie at the intersection of **security, cryptography, and low-level systems programming**. I believe in building secure-by-design solutions and understanding how things break before we build them.
+
+When I'm not analyzing packets or writing secure code:
+- 🏊‍♂️ Swimming through security challenges
+- 📚 Reading web novels (100+ conquered!)
+- 🤖 Automating security workflows with N8N
+- ☕ Probably debugging some cryptographic implementation
 
 ---
 
@@ -23,59 +41,205 @@ When I'm not debugging, you'll find me swimming 🏊‍♂️ or lost in web nov
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🔐 Security & Forensics
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-8B0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+### 💻 Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔧 Tools & Tech
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div>
 
 ---
 
-## 💻 Featured Projects
+## 💼 Featured Projects
 
-**🤖 [NeuroAssist](https://github.com/DakshVDharmani/neuroassist)** - AI-powered assistance tool that actually helps  
-**🍕 [Restaurant Website](https://github.com/Dev-Lahrani/Resturent-Website)** - Full-stack solution with modern UI/UX  
-**💬 [Chat-Box](https://github.com/Dev-Lahrani/Chat-Box)** - Real-time messaging that just works  
-**✈️ [Aviation Blog](https://github.com/Dev-Lahrani/aviation-blog-website)** - Where aviation meets web development  
-**🔐 [Crypto Editor](https://github.com/Dev-Lahrani/Collaborative-Editing-using-Cryptography-and-blockchain)** - Secure collaboration redefined  
-**🌐 [Portfolio](https://github.com/Dev-Lahrani/Resume-Website)** - My digital presence
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 [Threshold Cryptography Editor](https://github.com/Dev-Lahrani/Collaborative-editing-using-threshold-cryptography.git)
+Collaborative editing platform secured with threshold cryptography - because sharing secrets safely is an art
+
+**Tech:** Cryptography, Python, Security
+
+</td>
+<td width="50%">
+
+### 💬 [Secure Chat-Box](https://github.com/Dev-Lahrani/Chat-Box.git)
+Real-time encrypted messaging system built with security-first principles
+
+**Tech:** WebSockets, Encryption, Real-time
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📷 [ESP32-CAM System](https://github.com/Dev-Lahrani/ESP-32-cam-code.git)
+IoT surveillance system leveraging ESP32-CAM for security monitoring
+
+**Tech:** IoT, ESP32, Computer Vision
+
+</td>
+<td width="50%">
+
+### 📰 [News Web Scraper](https://github.com/Dev-Lahrani/news-web-scraper.git)
+Automated news aggregation and analysis tool for threat intelligence
+
+**Tech:** Python, Web Scraping, Automation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 [PyPort Checker](https://github.com/Dev-Lahrani/py-port-checker.git)
+Network security scanner for port analysis and vulnerability assessment
+
+**Tech:** Python, Network Security, Pentesting
+
+</td>
+<td width="50%">
+
+### 🚀 More Coming Soon...
+Currently cooking up new security tools and forensic utilities
+
+**Stay tuned!** ⚡
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Highlights
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Lahrani&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Lahrani&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=C9D1D9" />
+</div>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lahrani&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  
+```
+╔════════════════════════════════════════╗
+║   🎯 Commits: [████████░░] 80%        ║
+║   🔥 Streak: Breaking Records          ║
+║   ⭐ Skills: Constantly Upgrading      ║
+╚════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🎓 Currently Learning
+
+```rust
+struct DevJourney {
+    learning: Vec<&'static str>,
+    focus_areas: Vec<&'static str>,
+    motto: &'static str,
+}
+
+impl DevJourney {
+    fn new() -> Self {
+        DevJourney {
+            learning: vec![
+                "Rust Programming 🦀",
+                "Advanced Cryptography",
+                "Digital Forensics Techniques",
+                "Network Security & Pentesting",
+                "Systems Programming"
+            ],
+            focus_areas: vec![
+                "Secure Coding Practices",
+                "Threat Analysis",
+                "Incident Response",
+                "Exploit Development (Ethical)"
+            ],
+            motto: "Security through understanding, not obscurity"
+        }
+    }
+}
+```
+
+---
+
+## 🌟 Cybersecurity Journey
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Lahrani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Lahrani&theme=tokyonight&hide_border=true" />
+```python
+#!/usr/bin/env python3
+class CyberExplorer:
+    def __init__(self):
+        self.role = "Cybersecurity Enthusiast"
+        self.interests = [
+            "🔍 Digital & Cyber Forensics",
+            "🛡️ Penetration Testing",
+            "🔐 Cryptographic Systems",
+            "🦀 Systems Programming in Rust",
+            "🌐 Network Security Analysis"
+        ]
+        self.current_mission = "Master secure system design"
+        self.debug_method = "Swimming 🏊‍♂️ (best debugger ever)"
+    
+    def daily_routine(self):
+        return [
+            "Learn something new about security",
+            "Break something (ethically)",
+            "Fix it better than before",
+            "Document and share knowledge"
+        ]
+
+me = CyberExplorer()
+print(f"Status: {me.current_mission} | Method: {me.debug_method}")
+# Output: Status: Master secure system design | Method: Swimming 🏊‍♂️
+```
 
 </div>
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Skills Matrix
+
+<div align="center">
 
 ```
-📚 Advanced DSA & Problem Solving
-🔧 N8N Workflow Automation  
-⚡ System Design Fundamentals
-🌐 Full-Stack Best Practices
+┌─────────────────────────────────────────────────────┐
+│  Skill                    │  Progress               │
+├─────────────────────────────────────────────────────┤
+│  🔐 Cryptography          │  ████████░░  80%       │
+│  🦀 Rust                  │  ███░░░░░░░  30%       │
+│  🐍 Python                │  █████████░  90%       │
+│  🔍 Digital Forensics     │  ███████░░░  70%       │
+│  🛡️ Cybersecurity         │  ████████░░  85%       │
+│  🌐 Network Security      │  ███████░░░  75%       │
+│  💻 Systems Programming   │  ████░░░░░░  40%       │
+└─────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
-## 🌟 Fun Facts
-
-- 🏊‍♂️ Swimming helps me debug better (seriously!)
-- 📖 Read 100+ web novels and counting
-- ⚡ "Efficiently lazy" - automate everything possible
-- 🎯 Love turning ideas into working code
-
----
-
-## 📬 Let's Connect!
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -90,10 +254,21 @@ When I'm not debugging, you'll find me swimming 🏊‍♂️ or lost in web nov
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dev-Lahrani&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Dev-Lahrani&color=00FF41&style=flat-square&label=Visitors)
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+```
+╔═══════════════════════════════════════════════════════════╗
+║  "The only truly secure system is one that is powered     ║
+║   off, cast in a block of concrete and sealed in a        ║
+║   lead-lined room with armed guards."                     ║
+║                                    - Gene Spafford         ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-**Thanks for stopping by! ⭐ Star repos you find interesting!**
+### 💀 *Hack The Planet (Ethically)* 💀
+
+**✨ Thanks for visiting! Star repos that catch your eye! ✨**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
