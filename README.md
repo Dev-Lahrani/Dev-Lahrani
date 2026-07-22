@@ -1,102 +1,108 @@
-<h1 align="center">Dev Lahrani</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=120&section=header&text=Dev%20Lahrani&fontSize=45&fontColor=9BA4B5&fontAlignY=35&desc=Purple%20Team%20Operator%20%7C%20Cyber%20Threat%20Intelligence%20%7C%20SDE&descSize=14&descColor=2A4B7C&descAlignY=53&animation=fadeIn" alt="Header" width="100%"/>
+</div>
 
-<p align="center">
-  Computer Science Student @ VIT Pune
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dev-lahrani-788520358"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A1F44?style=flat-square&logo=linkedin&logoColor=9BA4B5"></a>
+  <a href="mailto:devlahrani10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0A1F44?style=flat-square&logo=gmail&logoColor=9BA4B5"></a>
+  <a href="https://dev-lahrani.github.io/Resume-Website"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A1F44?style=flat-square&logo=googlechrome&logoColor=9BA4B5"></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Dev-Lahrani&color=0A1F44&style=flat-square&label=Profile+Views">
+</div>
 
-<p align="center">
-  I build practical software across real-time dashboards, embedded systems, automation, and data-heavy frontends.
-</p>
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dev-lahrani-788520358">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:devlahrani10@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dev-lahrani.github.io/Resume-Website">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <img alt="Followers" src="https://img.shields.io/github/followers/Dev-Lahrani?style=for-the-badge&logo=github&label=Followers" />
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Dev-Lahrani&style=for-the-badge&color=0A66C2" />
-</p>
-
-## What I'm Building
-
-- Real-time systems that connect hardware, live data, and usable interfaces
-- Projects across Python, TypeScript, React, Flask, MQTT, and Linux tooling
-- Open-source work and student collaborations where I can ship fast and learn in public
-
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Driver Drowsiness Detection System](https://github.com/Dev-Lahrani/IOT_proj)
-ESP32-CAM based driver monitoring with EAR/MAR detection, GPS tracking, MQTT messaging, and a live Flask dashboard.
-
-**Stack:** Python, C++, Flask, MQTT, ESP32-CAM
-
-</td>
-<td width="50%" valign="top">
-
-### [Live Weather & Natural Disaster Tracking](https://github.com/Dev-Lahrani/Live-weather-and-Natural-disaster-viewing-using-a-live-map)
-React and TypeScript app for live disaster, weather, and AQI monitoring with filters, analytics, and a 3D globe.
-
-**Stack:** React, TypeScript, Vite, Tailwind, Three.js
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [PyPort](https://github.com/Dev-Lahrani/py-port-checker)
-Linux CLI for inspecting active ports, killing processes, controlling services, and scanning remote hosts.
-
-**Stack:** Python, Linux, systemd, CLI
-
-</td>
-<td width="50%" valign="top">
-
-<sub>Recent collaboration</sub>
-
-### [CodeFlix-26 / SeeTheScience](https://github.com/pavvada431-cmd/CodeFlix-26)
-AI-assisted science learning experience that turns plain-English prompts into interactive physics and chemistry simulations.
-
-**Stack:** React, Vite, Node.js, Tailwind, AI APIs
-
-</td>
-</tr>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#0A1F44" align="left" style="padding: 15px; border: 1px solid #2A4B7C; border-radius: 8px;">
+      <font color="#9BA4B5" size="2" face="monospace">
+        ┌──(<b><font color="#FFFFFF">dev@ravenclaw</font></b>)─[<font color="#2A4B7C">~/SOC/operations</font>]<br>
+        └──<font color="#9BA4B5">$</font> <b>./initialize_secure_shell</b> --user=dev_lahrani<br><br>
+        <font color="#2A4B7C">[+]</font> Establishing encrypted tunnel... <font color="#FFFFFF">OK</font><br>
+        <font color="#2A4B7C">[+]</font> Decrypting threat intelligence feeds... <font color="#FFFFFF">OK</font><br>
+        <font color="#2A4B7c">[+]</font> Loading offensive/defensive modules... <font color="#FFFFFF">OK</font><br>
+        <font color="#2A4B7c">[!]</font> <b>ACCESS GRANTED. WELCOME, OPERATOR.</b><br><br>
+        <b>> ROLE:</b> &nbsp;&nbsp;Purple Team Operator & Software Engineer<br>
+        <b>> FOCUS:</b> &nbsp;Cyber Threat Intelligence (CTI) | Core CE | SDE<br>
+        <b>> STATUS:</b> <font color="#FFFFFF">Actively hunting threats and building automation</font><br>
+      </font>
+    </td>
+  </tr>
 </table>
 
-## Toolbox
+<br>
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
-  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+### 🛡️ The Arsenal
+<table width="100%" border="1" cellspacing="0" cellpadding="12" style="border-collapse: collapse; border-color: #2A4B7C;">
+  <tr>
+    <td bgcolor="#0A1F44" align="center" width="33%" style="border: 1px solid #2A4B7C;">
+      <font color="#9BA4B5" size="4"><b>💻 Languages</b></font><br><br>
+      <img src="https://img.shields.io/badge/Python-2A4B7C?style=for-the-badge&logo=python&logoColor=9BA4B5" alt="Python"><br>
+      <img src="https://img.shields.io/badge/TypeScript-2A4B7C?style=for-the-badge&logo=typescript&logoColor=9BA4B5" alt="TypeScript"><br>
+      <img src="https://img.shields.io/badge/C++-2A4B7C?style=for-the-badge&logo=cplusplus&logoColor=9BA4B5" alt="C++"><br>
+      <img src="https://img.shields.io/badge/Bash-2A4B7C?style=for-the-badge&logo=gnubash&logoColor=9BA4B5" alt="Bash">
+    </td>
+    <td bgcolor="#0A1F44" align="center" width="33%" style="border: 1px solid #2A4B7C;">
+      <font color="#9BA4B5" size="4"><b>⚔️ Offensive / Defensive</b></font><br><br>
+      <img src="https://img.shields.io/badge/Kali_Linux-2A4B7C?style=for-the-badge&logo=kalilinux&logoColor=9BA4B5" alt="Kali"><br>
+      <img src="https://img.shields.io/badge/Burp_Suite-2A4B7C?style=for-the-badge&logo=burpsuite&logoColor=9BA4B5" alt="Burp"><br>
+      <img src="https://img.shields.io/badge/Wireshark-2A4B7C?style=for-the-badge&logo=wireshark&logoColor=9BA4B5" alt="Wireshark"><br>
+      <img src="https://img.shields.io/badge/Nmap-2A4B7C?style=for-the-badge&logo=nmap&logoColor=9BA4B5" alt="Nmap">
+    </td>
+    <td bgcolor="#0A1F44" align="center" width="33%" style="border: 1px solid #2A4B7C;">
+      <font color="#9BA4B5" size="4"><b>🛠️ SDE & Infra</b></font><br><br>
+      <img src="https://img.shields.io/badge/React-2A4B7C?style=for-the-badge&logo=react&logoColor=9BA4B5" alt="React"><br>
+      <img src="https://img.shields.io/badge/Flask-2A4B7C?style=for-the-badge&logo=flask&logoColor=9BA4B5" alt="Flask"><br>
+      <img src="https://img.shields.io/badge/Linux-2A4B7C?style=for-the-badge&logo=linux&logoColor=9BA4B5" alt="Linux"><br>
+      <img src="https://img.shields.io/badge/Docker-2A4B7C?style=for-the-badge&logo=docker&logoColor=9BA4B5" alt="Docker">
+    </td>
+  </tr>
+</table>
 
-## GitHub Activity
+<br>
 
-I like shipping in public and pushing incrementally. Most of my recent public activity has been around `IOT_proj` and `CodeFlix-26`, and the graph below keeps that visible.
-
+### 📊 Live Telemetry & Operator Metrics
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Lahrani&bg_color=0d1117&color=ffffff&line=58a6ff&point=f778ba&area=true&hide_border=true" alt="Dev Lahrani activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Lahrani&bg_color=0A1F44&color=9BA4B5&line=2A4B7C&point=FFFFFF&area=true&hide_border=true&titleColor=9BA4B5" alt="Activity Graph" width="95%" />
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Lahrani&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="Dev Lahrani GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Lahrani&hide_border=true&background=0d1117&ring=58a6ff&fire=f778ba&currStreakLabel=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Dev Lahrani GitHub streak" />
-</div>
+<br>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lahrani&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Dev Lahrani top languages" />
+  <a href="https://github.com/Dev-Lahrani">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Lahrani&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0A1F44&title_color=9BA4B5&text_color=9BA4B5&icon_color=2A4B7C&border_color=2A4B7C" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Dev-Lahrani">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Lahrani&hide_border=true&background=0A1F44&ring=2A4B7C&fire=9BA4B5&currStreakLabel=9BA4B5&sideNums=9BA4B5&sideLabels=9BA4B5&dates=9BA4B5&border=2A4B7C" alt="Streak Stats" />
+  </a>
+  <br>
+  <a href="https://github.com/Dev-Lahrani">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lahrani&layout=compact&hide_border=true&bg_color=0A1F44&title_color=9BA4B5&text_color=9BA4B5&border_color=2A4B7C" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+### 🏆 Operator Dossier
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Lahrani&theme=algolia&margin-w=8&margin-h=8&no-bg=true&column=6" alt="Trophies" width="95%" />
+</div>
+
+<br>
+
+### 🐍 Automated Grid Ingestion (Contribution Snake)
+<div align="center">
+  <img src="https://github.com/Dev-Lahrani/Dev-Lahrani/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="80%" />
+</div>
+
+<br>
+
+### 📡 Deep System Metrics
+<div align="center">
+  <img src="https://github.com/Dev-Lahrani/Dev-Lahrani/raw/output/github-metrics.svg" alt="God Level Metrics" width="95%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=100&section=footer&textColor=9BA4B5&fontSize=15&reversal=false" alt="Footer" width="100%"/>
 </div>
