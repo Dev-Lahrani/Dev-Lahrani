@@ -34,7 +34,7 @@ jobs:
           config_display: large
           config_padding: 0, 8 + 11%
           config_output: svg
-          config_colors: "#0a1f44, #9ba4b5, #2a4b7c"
+          config_colors: "#eaf4fb, #15314a, #ffb454"
           committer_branch: output
           committer_message: "Update metrics SVG"
           committer_token: ${{ secrets.GITHUB_TOKEN }}
