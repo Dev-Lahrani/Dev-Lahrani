@@ -71,7 +71,7 @@ def banner(t: dict) -> str:
     rows = [
         ("DWG NO.", "DL-2026-001"),
         ("SHEET", "1 / 1"),
-        ("SCALE", "NTS &#183; REV 03"),
+        ("SCALE", "NTS &#183; REV 04"),
     ]
     body = frame(w, h, t, "bg")
     # left text block
@@ -108,13 +108,13 @@ def status(t: dict) -> str:
     w, h = 1200, 232
     body = frame(w, h, t, "bg")
     body += f'<text x="36" y="46" font-family="{MONO}" font-size="13" font-weight="700" letter-spacing="5" fill="{t["ink2"]}">SYSTEM READOUT</text>'
-    body += f'<text x="1164" y="46" font-family="{MONO}" font-size="10" letter-spacing="1.5" fill="{t["ink3"]}" text-anchor="end">REALTIME &#183; LAST SYNC 2026-09-17</text>'
+    body += f'<text x="1164" y="46" font-family="{MONO}" font-size="10" letter-spacing="1.5" fill="{t["ink3"]}" text-anchor="end">REALTIME &#183; LAST SYNC 2026-11-04</text>'
     body += f'<line x1="36" y1="58" x2="1164" y2="58" stroke="{t["line"]}" stroke-width="1" stroke-opacity="0.6"/>'
     cells = [
         ("CGPA", "8.71", "/ 10 &#183; B.TECH C.E.", 0.87, t["ink"]),
         ("CTF FLAGS", "16+", "PICOCTF &#183; SOLVED", 0.80, t["ink"]),
         ("HACKTOVATE '26", "#2", "1ST RUNNER-UP &#183; CSI VIT", 0.66, t["ink"]),
-        ("CERTS", "02", "CTI/IR SPEC. + OSINT", 0.66, t["ink"]),
+        ("CERTS", "04", "CTI/IR&#183;AWS&#183;SOC&#183;OSINT", 0.66, t["ink"]),
         ("ROLES @ VIT", "03", "TREASURER &#183; CSA", 0.75, t["ink"]),
         ("STATUS", "OPEN", "SWE &amp; SEC INTERNSHIPS", 0.92, t["accent"]),
     ]
@@ -130,7 +130,7 @@ def status(t: dict) -> str:
         body += f'<rect x="{x0 + 6}" y="168" width="{(cw - 40) * pct:.0f}" height="4" fill="{t["accent"]}"/>'
     body += f'<text x="600" y="214" font-family="{MONO}" font-size="9" letter-spacing="2" fill="{t["ink3"]}" text-anchor="middle">ALL VALUES SELF-REPORTED &#183; AUDIT TRAIL: DEVLAHRANI.SYSTEMS</text>'
     return (
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="System readout: CGPA 8.71, 16+ CTF flags, hackathon runner-up, 2 certifications, 3 campus roles, open to internships">'
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="System readout: CGPA 8.71, 16+ CTF flags, hackathon runner-up, 4 certifications, 3 campus roles, open to internships">'
         + f"<defs>{grid_pattern('bg', t)}</defs>" + body + "</svg>"
     )
 
@@ -169,7 +169,7 @@ def footer(t: dict) -> str:
     body += f'<text x="{x0 + 16}" y="{top + 62}" font-family="{MONO}" font-size="19" font-weight="700" fill="{t["ink"]}">DEV LAHRANI</text>'
     body += f'<text x="{x0 + 16}" y="{top + 80}" font-family="{MONO}" font-size="10" letter-spacing="1" fill="{t["ink2"]}">CYBERSECURITY &amp; SYSTEMS &#183; PUNE, IN &#183; devlahrani.systems</text>'
     # four cells
-    small = [("DRAWN BY", "DEV LAHRANI"), ("CHECKED BY", "SELF"), ("APPROVED BY", "D. LAHRANI"), ("DATE", "2026-09-17")]
+    small = [("DRAWN BY", "DEV LAHRANI"), ("CHECKED BY", "SELF"), ("APPROVED BY", "D. LAHRANI"), ("DATE", "2026-11-04")]
     cx = x0 + big_w
     cw = 130
     for lab, val in small:
@@ -180,7 +180,7 @@ def footer(t: dict) -> str:
     # mini rows cell
     mini_w = 150
     body += f'<line x1="{cx}" y1="{top}" x2="{cx}" y2="{y0 + th}" stroke="{t["line"]}" stroke-opacity="0.5" stroke-width="1"/>'
-    mini = ["DWG NO.  DL-2026-001", "REV      03", "SCALE    NTS"]
+    mini = ["DWG NO.  DL-2026-001", "REV      04", "SCALE    NTS"]
     for i, m in enumerate(mini):
         ry = top + 22 + i * 21
         if i > 0:
